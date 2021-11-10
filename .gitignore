@@ -1,0 +1,7 @@
+/.idea
+/__pycache__
+boo.py
+key.key
+pass_mana.py
+*.txt
+password_manager.py
